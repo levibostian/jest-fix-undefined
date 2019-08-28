@@ -1,0 +1,7 @@
+# Ignore 
+test/
+src/
+*.config.js
+*.yml
+.*rc
+*config.json
