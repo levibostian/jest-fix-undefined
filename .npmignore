@@ -1,0 +1,10 @@
+# Ignore 
+test/
+src/
+*.config.js
+*.yml
+.*rc
+*config.json
+
+# Do not ignore 
+!dist/
