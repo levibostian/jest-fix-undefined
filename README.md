@@ -1,3 +1,7 @@
+[![npm version](https://img.shields.io/npm/v/jest-fix-undefined.svg?style=flat-square)](https://www.npmjs.org/package/jest-fix-undefined)
+[![Build Status](https://travis-ci.com/levibostian/jest-fix-undefined.svg?branch=master)](https://travis-ci.com/levibostian/jest-fix-undefined)
+[![install size](https://packagephobia.now.sh/badge?p=jest-fix-undefined)](https://packagephobia.now.sh/result?p=jest-fix-undefined)
+
 # jest-fix-undefined
 
 References for Jest that are not packaged by default to solve the, "ReferenceError: Request is not defined" error. 
