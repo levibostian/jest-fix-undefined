@@ -1,6 +1,6 @@
 {
   "name": "jest-fix-undefined",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "References for Jest that are not packaged by default to solve the, `ReferenceError: Request is not defined` error. ",
   "main": "dist/index.js",
   "scripts": {
