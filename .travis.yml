@@ -6,8 +6,8 @@ jobs:
       script: 
         - npm run test 
     - stage: deploy      
-      # only run 1 script here to make sure it all runs together. 
-      script: rm .gitignore; npm run build; npx semantic-release;
+      # only run 1 script here to make sure it all runs together.
+      script: rm .gitignore; npm run build; npx semantic-release; 
 
 stages:
   - name: tests # Run tests on every commit to help keep tests passing as long as possible.
